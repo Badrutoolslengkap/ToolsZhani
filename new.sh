@@ -14,9 +14,8 @@ echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR :"$ku"MR.Link :👇
-https://www.facebook.com/Z.hani10  [FR13ND8]"$i"   |"
-echo $i" |"$pu" FACEBOOK :"$ku" Z HANI"$i"               |"
+echo $i" |"$pu" AUTHOR :"$ku"MR.:https://www.facebook.com/Z.hani10  [FR13ND8]"$i"   |"
+echo $i" |"$pu" FACEBOOK :"$ku" Z HANI"$i"                |"
 echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
 echo $i" |"$cy"            ~ [cyber] [%MR.S%] [BADRU]"$i" |"
 echo $i" |"$pu" Contack WhatsApp :"$ku" 0895375872878"$i"            |"
